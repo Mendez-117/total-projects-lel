@@ -1,0 +1,13 @@
+.tit{
+    margin-top:0px !important;
+    line-height: 2;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px red ridge;
+    background-color: seashell;
+}

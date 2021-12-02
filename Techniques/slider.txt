@@ -1,0 +1,3 @@
+slider = document.getElementById("slider").value;
+  //use speed() function of p5.js and pass "slider" variable to it ,so that speed changes as per slider value
+  video.speed(slider);

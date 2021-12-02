@@ -1,0 +1,62 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+}
+
+.note{
+   color: black;
+   font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed_img{
+    width:100px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 23px;
+    margin:15px;
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+    background-image: url('backright.jpg');
+}
+
+.div_volume_img{
+    width:100px;
+    border-radius: 100px;
+}
+
+#volume{
+    font-size: 23px;
+    margin:15px;
+    background-size: cover;
+}
+
+.div_volume{
+    float: right;
+}
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px salmon ridge;
+    border-radius: 20px;
+}
+
+.stop_button{
+    bottom:10px;
+    width: 130px;
+    font-size: 25px;
+}
+

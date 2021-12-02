@@ -1,0 +1,21 @@
+body{
+    background-image: url(Halo-infinte.jpg);
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+div{
+    width: 50% !important;
+    margin-bottom: 50px !important;
+}
+
+h1{
+    background-color: cyan;
+    line-height: 2;
+    margin-top: 0;
+    margin-bottom: 100px;
+}

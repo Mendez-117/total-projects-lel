@@ -1,0 +1,42 @@
+<html>
+<head>  
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js" ></script>
+<script src="https://unpkg.com/ml5@0.4.3/dist/ml5.min.js"></script>
+<script type="text/javascript">
+</script>
+
+</head>
+<body class="body_backgorund">
+
+<div align="center">
+<h1>Paint</h1>
+
+    <canvas id="myCanvas" width="800" height="600"></canvas>
+        <br><br >
+<div class="btn btn-warning">
+    <span class="btn btn-danger"> Color-
+        <input type="text" id="colorinput">
+    </span>
+    
+    
+    <span class="btn btn-success"> Width-
+        <input type="text" id="widthinput">
+    </span>
+    
+    <span class="btn btn-primary">Radius-
+        <input type="text" id="radiusinput">
+    </span>
+    
+</div>
+<br><br>
+<button class="btn btn-warning" onclick="clearCanvas()"> Clear Canvas </button>
+    </div>
+<script src="main.js"></script>
+<script async src="https://drv.tw/inc/wd.js"></script></body>
+</html>

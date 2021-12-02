@@ -1,0 +1,25 @@
+h1
+{
+	background-color: red; 
+	font-size: 40px;
+    margin-top: 0 !important;
+}
+.body_backgorund {
+	background-image: url('back.jpg');
+	background-position: center;
+	background-size: cover;
+
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
+span {
+	font-size: 20px;
+}
+
+input{
+    color: black !important;
+}

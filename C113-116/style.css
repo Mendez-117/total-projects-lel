@@ -1,0 +1,19 @@
+body{
+    background-image: url('doof1.png');
+    background-size: cover;
+}
+
+#p{
+    text-align: center;
+    background-color: aquamarine;
+    margin-top: 0;
+}
+
+hr{
+    margin-top: 0;
+}
+
+canvas{
+    border: blue ridge 5px;
+    margin-top:100px;
+}

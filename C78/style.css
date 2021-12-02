@@ -1,0 +1,12 @@
+h1{
+    margin-top: 0 !important;
+    width: 100% !important;
+    font-size: 30px !important;
+}
+
+#pic{
+    border: ridge royalblue 2px;
+    height:200px;
+    width:400px;
+    height:400px;
+}

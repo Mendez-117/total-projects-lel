@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    font-size:30px  !important;
+    width: 100%;
+    margin-top: 0%;
+}
+
+canvas{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    border-width: 5px;
+    border-style: groove;
+    border-top-color: aquamarine;
+    border-bottom-color: chartreuse;
+    border-left-color: darkblue;
+    border-right-color: firebrick;
+    background-color: ghostwhite;
+}
